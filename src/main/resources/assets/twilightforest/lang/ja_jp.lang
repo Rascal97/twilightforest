@@ -1,6 +1,6 @@
 #PARSE_ESCAPES
 
-itemGroup.twilightForest=Twilight Forest
+itemGroup.twilightForest=トワイライト・フォレスト
 
 # ADVANCEMENTS
 advancement.twilightforest.root.desc=不思議で神秘的な森、トワイライト・フォレストに入る。
@@ -167,17 +167,17 @@ tile.twilightforest.Plant.9.name=落ち葉
 tile.twilightforest.Roots.0.name=根
 tile.twilightforest.Roots.1.name=生きた根
 tile.twilightforest.UncraftingTable.name=解体作業台
-tile.twilightforest.FireJet.0.name=Smoking Block
-tile.twilightforest.FireJet.1.name=Encased Smoker
-tile.twilightforest.FireJet.2.name=Encased Smoker
-tile.twilightforest.FireJet.3.name=Fire Jet
+tile.twilightforest.FireJet.0.name=煙ブロック
+tile.twilightforest.FireJet.1.name=包まれたスモーカー
+tile.twilightforest.FireJet.2.name=包まれたスモーカー
+tile.twilightforest.FireJet.3.name=火炎噴出器
 tile.twilightforest.FireJet.4.name=Popping Fire Jet
 tile.twilightforest.FireJet.5.name=Flaming Fire Jet
-tile.twilightforest.FireJet.6.name=Encased Fire Jet
+tile.twilightforest.FireJet.6.name=包まれた火炎噴出器
 tile.twilightforest.FireJet.7.name=Encased Popping Fire Jet
 tile.twilightforest.FireJet.8.name=Encased Flaming Fire Jet
-tile.twilightforest.Nagastone.0.name=Nagastone Head
-tile.twilightforest.Nagastone.1.name=Nagastone
+tile.twilightforest.Nagastone.0.name=ナーガストーンの頭
+tile.twilightforest.Nagastone.1.name=ナーガストーン
 tile.twilightforest.Sapling.name=Twilight Sapling
 tile.twilightforest.Sapling.0.name=Sickly Twilight Oak Sapling
 tile.twilightforest.Sapling.1.name=Canopy Tree Sapling
@@ -425,7 +425,7 @@ structure.troll_cave_and_cloud_castle.name=Troll Cave and House in the Clouds
 structure.final_castle.name=Final Castle
 
 # Items
-item.twilightforest.nagaScale.name=Naga Scale
+item.twilightforest.nagaScale.name=ナーガの鱗
 item.twilightforest.plateNaga.name=Naga Scale Tunic
 item.twilightforest.legsNaga.name=Naga Scale Leggings
 item.twilightforest.scepterTwilight.name=Scepter of Twilight
